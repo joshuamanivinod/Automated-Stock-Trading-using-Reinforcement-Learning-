@@ -1,4 +1,4 @@
-# AUTOMATED TRADING IN LIMIT ORDER BOOK USING REINFORCEMENT LEARNING
+# AUTOMATED STOCK TRADING USING REINFORCEMENT LEARNING
 
 This work presents a novel trading strategy that leverages modern deep learning architectures by combining Deep Reinforcement Learning (DRL) with a Decision Transformer (DT) framework. Traditionally, methods such as Deep Q-Networks (DQN) have been employed to develop trading agents, but our approach integrates the Decision Transformer in an offline reinforcement learning setting, which has shown promising improvements in decision-making quality and cumulative returns. We preprocess historical stock price data from major companies(Google, Microsoft, Amazon etc) using technical indicators including MACD, RSI, and various return measures to construct rich state representations for the learning process. Experimental evaluations demonstrate that our hybrid model not only achieves competitive performance but also offers enhanced robustness over traditional methods, suggesting that the combination of DRL with transformer-based architectures can pave the way for more effective and profitable trading strategies.
 
